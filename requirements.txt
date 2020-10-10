@@ -1,5 +1,6 @@
+# python version : 3.6.3
 Django>=1.10,<1.11
-djangorestframework
+djangorestframework<3.7
 pytest-django
 pytest-watch
 ipython
